@@ -33,6 +33,20 @@
 
 ---
 
+## ⚡ Pre-Configured 1-Click Tasks & Common Use Cases
+
+Skip manual parameter setup. Launch these ready-to-use task presets directly in 1 click:
+
+| Audit Preset / Investigation Goal | Description & Target Query | 1-Click Run Link |
+| :--- | :--- | :---: |
+| **Audit Seller Sold History & Clearing Prices on (闲鱼)** | Extract complete historical sold listings from any Goofish 闲鱼 (Xianyu / Idlefish) seller to analyze sales velocity, real clearing prices, turnover rate, and historical discount margins. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?task=audit-seller-sold-history-pricing&fpr=939u3w&fp_sid=gh_goofish_seller) |
+| **Export Active Seller Product Catalog from (闲鱼)** | Scrape all currently active, on-sale product listings from any Goofish 闲鱼 (Xianyu / Idlefish) seller profile with prices, high-res photos, tags, and direct item links. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?task=export-active-seller-catalog&fpr=939u3w&fp_sid=gh_goofish_seller) |
+| **Deep Seller Catalog & Spec Enrichment** | Deeply enrich Goofish seller listings with full plain-text descriptions, condition ratings, view/want statistics, seller location, and structured specifications dictionaries. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?task=deep-seller-catalog-specs-enrichment&fpr=939u3w&fp_sid=gh_goofish_seller) |
+| **Seller Credibility, Trust & Zhima Credit Background Check** | Perform instant seller credibility background checks on Goofish (闲鱼 / Idlefish). Extract Zhima credit ratings, real-name verification badges, follower counts, and account age. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?task=seller-trust-and-zhima-credit-check&fpr=939u3w&fp_sid=gh_goofish_seller) |
+| **Audit Seller Buyer Reviews & Rating Reputation** | Scrape comprehensive buyer feedback and rating reviews for any Goofish (闲鱼 / Xianyu) seller store. Extract buyer nicknames, review text, ratings, and purchase timestamps. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?task=audit-seller-buyer-reviews-reputation&fpr=939u3w&fp_sid=gh_goofish_seller) |
+
+---
+
 ## 📖 Overview
 
 **Goofish (闲鱼 / Xianyu / Idle Fish)** is Alibaba's flagship C2C second-hand trading ecosystem with over **500 million registered users**. It represents the world's most dynamic marketplace for authentic pre-owned luxury, electronics, vintage fashion, anime figures, and rare collectibles.
